@@ -1,4 +1,4 @@
 utilities
 =========
 
-Utility class for my C# projects
+Utility classes for my C# projects
